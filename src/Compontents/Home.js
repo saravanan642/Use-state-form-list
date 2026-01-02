@@ -9,6 +9,12 @@ const Home = () => {
 
       <form>
         <p>Job list</p>
+       <input
+  className="border border-black border-solid p-2 rounded"
+  type="number"
+  placeholder="eg. 56839005"
+/>
+
       </form>
     </div>
   )
