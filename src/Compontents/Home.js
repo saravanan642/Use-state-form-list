@@ -16,7 +16,7 @@ const Home = () => {
           </div>
 
           <div className=' flex gap-[20px] m-[10px]'>
-            <label className=' text-black font-bold'>Job Tittle</label>
+            <label className=' text-black font-bold'>Job Tittles</label>
             <input className="border-2 border-solid border-black rounded " type="text " placeholder="eg. Fullstack developer " />
           </div>
 
